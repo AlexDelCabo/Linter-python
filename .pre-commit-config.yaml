@@ -3,5 +3,3 @@ repos:
     rev: 3.9.0
     hooks:
     -   id: flake8
-              - name: pre-commit
-                uses: pre-commit/action@v3.0.0
